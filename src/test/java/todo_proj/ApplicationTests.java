@@ -1,4 +1,4 @@
-package goulart.proj.to_do_proj;
+package todo_proj;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
